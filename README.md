@@ -28,14 +28,10 @@ A producer thread generates data and places it into a shared buffer, while multi
   - Reverses the string
 - Synchronization ensures safe access to shared data
 
-## How to Run
-1. Open project in IntelliJ IDEA
-2. Run `Main.java`
-
 ## Output Example
 Below is a sample run of the program showing producer and consumer interaction:
 
-![Program Output](screenshot_5.png)
+![Program Output](screenshot5.png)
 
 ## Why This Project Matters
 This project demonstrates core backend development concepts such as:
